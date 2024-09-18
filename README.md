@@ -1,5 +1,7 @@
 # ¡Hola! 👋 Soy Jorge Rodriguez Alonso
 
+Sobre mi
+
 Soy un **desarrollador de aplicaciones web** apasionado por la tecnología y la creación de soluciones innovadoras.
 Me especializo en el desarrollo de aplicaciones eficientes y escalables.
 
