@@ -22,7 +22,7 @@ IES Infanta Elena - C.F.G.S. Desarrollo de Aplicaciones Web
 ---
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 😊
 
-![fotoAplicacionesWeb](Imagenes/fotoAplicacionesWeb.png)
+![fotoAplicacionesWeb](fotoAplicacionesWeb.png)
 
 <!--
 **Jorgerdzz/Jorgerdzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
