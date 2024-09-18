@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Jorge Rodriguez Alonso
 
-Sobre mi
+## Sobre mi
 
-Soy un **desarrollador de aplicaciones web** apasionado por la tecnología y la creación de soluciones innovadoras.
+Soy un **desarrollador de aplicaciones** apasionado por la tecnología y la creación de soluciones innovadoras.
 Me especializo en el desarrollo de aplicaciones eficientes y escalables.
 
 ---
@@ -10,8 +10,16 @@ Me especializo en el desarrollo de aplicaciones eficientes y escalables.
 ## 🔧 Tecnologías y Herramientas
 
 - **Lenguajes de programación**: Java, JavaScript, HTML, CSS, SQL.
+- **Desarrollo web**: HTML, CSS
+- **Bases de datos**: MySQL
 - **Frameworks**: Spring, React.
 - **Herramientas**: Git, Docker.
+
+---
+
+## Educación
+
+IES Infanta Elena - C.F.G.S. Desarrollo de Aplicaciones Web
 
 ---
 
