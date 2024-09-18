@@ -1,7 +1,5 @@
 # ¡Hola! 👋 Soy Jorge Rodriguez Alonso
 
-## Sobre mi
-
 Soy un **desarrollador de aplicaciones** apasionado por la tecnología y la creación de soluciones innovadoras.
 Me especializo en el desarrollo de aplicaciones eficientes y escalables.
 
@@ -9,9 +7,9 @@ Me especializo en el desarrollo de aplicaciones eficientes y escalables.
 
 ## 🔧 Tecnologías y Herramientas
 
-- **Lenguajes de programación**: Java, JavaScript, HTML, CSS, SQL.
-- **Desarrollo web**: HTML, CSS
-- **Bases de datos**: MySQL
+- **Lenguajes de programación**: Java, JavaScript.
+- **Desarrollo web**: HTML, CSS.
+- **Bases de datos**: MySQL.
 - **Frameworks**: Spring, React.
 - **Herramientas**: Git, Docker.
 
@@ -22,8 +20,10 @@ Me especializo en el desarrollo de aplicaciones eficientes y escalables.
 IES Infanta Elena - C.F.G.S. Desarrollo de Aplicaciones Web
 
 ---
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 😊
 
-- ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 😊
+![fotoAplicacionesWeb](Imagenes/fotoAplicacionesWeb.png)
+
 <!--
 **Jorgerdzz/Jorgerdzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
