@@ -15,7 +15,7 @@ Me especializo en el desarrollo de aplicaciones eficientes y escalables.
 
 ---
 
-## Educación
+## 🎓 Educación
 
 IES Infanta Elena - C.F.G.S. Desarrollo de Aplicaciones Web
 
