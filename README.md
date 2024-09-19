@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Jorge Rodriguez Alonso
+# ¡Hola! 👋 Soy Jorge Rodriguez
 
 Soy un **desarrollador de aplicaciones** apasionado por la tecnología y la creación de soluciones innovadoras.<br>
 Me especializo en el desarrollo de aplicaciones eficientes y escalables.<br>
