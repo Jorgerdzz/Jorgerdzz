@@ -14,6 +14,7 @@ Me especializo en el desarrollo de aplicaciones eficientes y escalables.<br>
  - **IES Infanta Elena** - C.F.G.S. Desarrollo de Aplicaciones Web.<br>
  
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 😊
+
 ![fotoAplicacionesWeb](fotoAplicacionesWeb.png)
 
 <!--
