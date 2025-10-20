@@ -55,7 +55,7 @@ Mi objetivo es combinar mis conocimientos en **desarrollo web, programación ori
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 😊  
 
-- LinkedIn: [tu-linkedin]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/jorge-rodr%C3%ADguez-alonso-326157243/))  
+- LinkedIn: [Jorge Rodríguez Alonso](https://www.linkedin.com/in/jorge-rodr%C3%ADguez-alonso-326157243/)  
 - Email: jorge.rodriguezalonso20@gmail.com / jorgerodriguezalonso@tajamar365.com 
 
 ### 🌟 ¡Explora mis proyectos y construyamos soluciones juntos! 
