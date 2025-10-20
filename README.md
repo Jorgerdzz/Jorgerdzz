@@ -4,46 +4,42 @@ Soy un **Desarrollador Full Stack y Cloud** apasionado por la tecnología, la cr
 
 Mi objetivo es combinar mis conocimientos en **desarrollo web, programación orientada a objetos y soluciones cloud** para ofrecer aplicaciones modernas, interactivas y con acceso a datos de manera profesional.
 
----
 
 ## 🔧 Tecnologías y Herramientas
 
 **Lenguajes de programación:**  
-Java, JavaScript, C#, HTML5, CSS3, SQL  
+- Java, JavaScript, C#, Python, HTML5, CSS3, SQL  
 
 **Frameworks y Librerías:**  
-Angular, React, Vue.JS, Spring, ASP.NET Core, Entity Framework  
+- Angular, React, Vue.JS, ASP.NET Core, Entity Framework  
 
 **Bases de datos:**  
-MySQL, SQL Server  
+- MySQL, SQL Server  
 
 **Desarrollo Cloud:**  
-Microsoft Azure (AZ-204), Amazon Web Services (DVA-C02)  
+- Microsoft Azure (AZ-204), Amazon Web Services (DVA-C02)  
 
 **Plataformas Low-Code:**  
-Microsoft Power Platform (PL-400)  
+- Microsoft Power Platform (PL-400)  
 
 **Herramientas y DevOps:**  
-Git, Docker, Visual Studio, Visual Studio Code  
-
----
+- Git, Docker, Visual Studio, Visual Studio Code  
 
 ## 🎓 Educación
 
-**Máster en Desarrollo Full Stack y Arquitecturas Cloud** – Tajamar  
-- Desarrollo Frontend: Angular, React, Vue.JS  
-- Desarrollo Backend: C#, ASP.NET Core, Entity Framework  
-- Bases de datos: SQL Server, MySQL  
+**Máster en Desarrollo Full Stack y Arquitecturas Cloud – Tajamar** 
+- **Desarrollo Frontend**: Angular, React, Vue.JS  
+- **Desarrollo Backend**: C#, ASP.NET Core, Entity Framework  
+- **Bases de datos**: SQL Server, MySQL  
 - Desarrollo de aplicaciones empresariales con **Microsoft Power Platform** (PL-400)  
 - Desarrollo de soluciones cloud: **Microsoft Azure** (AZ-204) y **AWS** (DVA-C02)  
-- Preparación para certificaciones oficiales:  
-  - Microsoft Power Platform Developer  
-  - Developing Solutions for Microsoft Azure  
-  - AWS Certified Developer – Associate  
+- Preparación para **certificaciones oficiales**:  
+  - **Microsoft Power Platform Developer**  
+  - **Developing Solutions for Microsoft Azure**  
+  - **AWS Certified Developer – Associate**  
 
 **IES Infanta Elena – C.F.G.S. Desarrollo de Aplicaciones Web**  
 
----
 
 ## 🚀 Competencias
 
@@ -55,15 +51,11 @@ Git, Docker, Visual Studio, Visual Studio Code
 - Estrategias de posicionamiento y despliegue de aplicaciones en la nube (Azure & AWS)  
 - Creación de aplicaciones empresariales Low-Code con Power Platform  
 
----
-
 ## 📫 Contacto
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 😊  
 
-- LinkedIn: [tu-linkedin](https://www.linkedin.com/in/tu-perfil/)  
-- Email: tuemail@dominio.com  
-
----
+- LinkedIn: [tu-linkedin]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/jorge-rodr%C3%ADguez-alonso-326157243/))  
+- Email: jorge.rodriguezalonso20@gmail.com / jorgerodriguezalonso@tajamar365.com 
 
 ### 🌟 ¡Explora mis proyectos y construyamos soluciones juntos! 
