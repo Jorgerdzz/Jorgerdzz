@@ -38,7 +38,7 @@ Mi objetivo es combinar mis conocimientos en **desarrollo web, programación ori
   - **Developing Solutions for Microsoft Azure**  
   - **AWS Certified Developer – Associate**  
 
-**IES Infanta Elena – C.F.G.S. Desarrollo de Aplicaciones Web**  
+**C.F.G.S. Desarrollo de Aplicaciones Web - IES Infanta Elena**  
 
 
 ## 🚀 Competencias
